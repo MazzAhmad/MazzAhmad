@@ -1,8 +1,6 @@
 <h1 align="center">MaazAhmad MaazAhmad</h1>
 <h3 align="center">ByteWizard</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazzahmad" alt="mazzahmad" /></a> </p>
-
 - Contact **codechronicleyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
